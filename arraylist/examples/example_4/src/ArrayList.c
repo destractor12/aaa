@@ -109,6 +109,8 @@ int al_deleteArrayList(ArrayList* this)
 {
     int returnAux = -1;
 
+    free(this);
+
     return returnAux;
 }
 

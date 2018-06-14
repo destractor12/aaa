@@ -1792,3 +1792,31 @@
 
 1463521274 /home/alumno/Descargas/arraylist/examples/example_4/testing/inc/main_test.h
 
+1528977775 source:c:\users\alumno\desktop\aaa-master\arraylist\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528977775 c:\users\alumno\desktop\aaa-master\arraylist\utest.h
+
+1528977775 source:c:\users\alumno\desktop\aaa-master\arraylist\examples\example_4\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1528977775 c:\users\alumno\desktop\aaa-master\arraylist\examples\example_4\inc\employee.h
+
+1528977775 source:c:\users\alumno\desktop\aaa-master\arraylist\examples\example_4\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/ArrayList.h"
+	"../inc/Employee.h"
+
+1528977777 c:\users\alumno\desktop\aaa-master\arraylist\examples\example_4\testing\inc\main_test.h
+
+1528977775 c:\users\alumno\desktop\aaa-master\arraylist\examples\example_4\inc\arraylist.h
+
